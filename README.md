@@ -25,19 +25,15 @@
 
 
 ## Project Overview
-- Use Data Mining approach to identify which patient has heart disease or not based on the features like Age, Sex, ChestPainType, etc.
-- The dataset can be obtained [here from Kaggle](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction?datasetId=1582403&sortBy=voteCount&searchQuery=logi).
-- [Python](https://www.python.org/) is used to assist this project with Data Mining by extracting important insights using: 
+- Use data analytics to ().
+- The dataset can be obtained from [Airbnb open-source dataset website](http://insideairbnb.com/get-the-data/).
+- [Python](https://www.python.org/) is used to assist this project with data analytics by extracting important insights using: 
   - [Basic Statistics](https://en.wikipedia.org/wiki/Statistics)
   - [Data Visualization](https://en.wikipedia.org/wiki/Data_and_information_visualization)
-  - [Supervised Machine Learning Models (Classification)](https://en.wikipedia.org/wiki/Supervised_learning)
-    - [Decision Tree Classifier](https://en.wikipedia.org/wiki/Decision_tree_learning)
-    - [Neural Network Classifier](https://en.wikipedia.org/wiki/Neural_network)
-    - [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression)
-    - [Random Forest Classifier (Bagging Ensemble Model)](https://en.wikipedia.org/wiki/Random_forest)
-    - [XGBoost Classifier (Gradient Ensemble Model)](https://en.wikipedia.org/wiki/XGBoost)
+  - [Exploratory Data Analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
+  - [Text Analysis](https://en.wikipedia.org/w/index.php?title=Text_analysis&redirect=no)
 
-
+===============================
 
 ## Motivation
 - In the healthcare industry, understanding what factors or indicators affect a disease is an essential part of the decision-making and problem-solving process. 
