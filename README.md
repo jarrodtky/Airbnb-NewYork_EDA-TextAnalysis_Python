@@ -25,7 +25,7 @@
 
 
 ## Project Overview
-- Use data analytics to ().
+- Use data analytics to analyse how and why users place their listings in New York City by performing borough and room type analysis and room name text analysis.
 - The dataset can be obtained from [Airbnb open-source dataset website](http://insideairbnb.com/get-the-data/).
 - [Python](https://www.python.org/) is used to assist this project with data analytics by extracting important insights using: 
   - [Basic Statistics](https://en.wikipedia.org/wiki/Statistics)
