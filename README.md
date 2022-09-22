@@ -1,3 +1,6 @@
+remove the 2 ipynb files
+combine the new py file
+
 <p align="center">
     <img width="800" src="https://miro.medium.com/max/1500/1*8Zcspj5yuoU5jsMv1xL7cg.png">
 </p>
@@ -33,29 +36,31 @@
   - [Exploratory Data Analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
   - [Text Analysis](https://en.wikipedia.org/w/index.php?title=Text_analysis&redirect=no)
 
-===============================
+
 
 ## Motivation
-- In the healthcare industry, understanding what factors or indicators affect a disease is an essential part of the decision-making and problem-solving process. 
-- People with cardiovascular disease or who are at high cardiovascular risk (due to the presence of one or more risk factors such as hypertension, diabetes, hyperlipidaemia or already established disease) need early detection and management wherein a machine learning model or statistical analyses can be of great help.
-- These indicators allow decision-makers to identify any potential ways to reduce risk factors of future health and increase the likelihood of disease prevention effectively (Santos et al., 2019). 
+- Airbnb is well-known for its primary principle of connecting people and cultures by offering a platform for residential space sharing.
+- Visitors or tourists today are drawn to crowded places with stunning scenery, city activity, or a healthy environment.
+- Because New York City is such a large and crowded state, it raises the question of which neighbourhood of New York City a person should rent in, and if so, what sort of room.
+- Furthermore, if a person want to become an Airbnb host, what name convention should the host employ in order to attract more casual guests or travellers?
 
 
 
 ### Aim & Objective
 - Aim: 
-  - To improve the process of analyzing patients’ heart disease in the healthcare industry to allow earlier detection and avoidance of heart disease and morbidity. 
+  - To analyze how new hosts can place their listings to generate more profit in New York City since they may have difficulty on where to place their listings in different boroughs, neighbourhoods, room type, and naming of the listings to attract more travelers easily.
 - Objective: 
-  - To create and select the best Machine Learning model that classifies patients into those who will develop heart disease in the future and those who will not based on the importance of data variables and models evaluation and assessment (i.e. Accuracy, Recall, AUC, etc.). 
-  - The insights gained by analyzing the feature importance of each data variable to the target data will aid in establishing which factor or indicator is critical in causing heart disease.
+    - To analyze what can be learned about the various boroughs and room types through borough and room type analysis.
+    - Perform text mining on the content of the room naming convention and try to determine the aspects that contribute to the outcome.
+    - The insights gained from analysing the Airbnb listening data will be useful in deciding the elements to consider while listing on the Airbnb platform for new hosts and travellers.
 
 
 
 ## Contents
-**(1) HeartDisease_Dataset.csv**
-  - Heart Disease dataset file in CSV format.
+**(1) Airbnb-NewYork_Dataset.csv**
+  - NYC Airbnb Listings dataset file in CSV format.
 
-**(2) HeartDisease_EDA-ML_Python.ipynb**
+**(2) Airbnb-NewYork_EDA-TextAnalysis_Python.ipynb**
   - The main notebook containing the Python implementation codes (along with explanations) for the project.
 
 
@@ -69,7 +74,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23#ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 <p </p>
 
