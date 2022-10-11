@@ -1,6 +1,3 @@
-remove the 2 ipynb files
-combine the new py file
-
 <p align="center">
     <img width="800" src="https://miro.medium.com/max/1500/1*8Zcspj5yuoU5jsMv1xL7cg.png">
 </p>
@@ -60,8 +57,8 @@ combine the new py file
 **(1) Airbnb-NewYork_Dataset.csv**
   - NYC Airbnb Listings dataset file in CSV format.
 
-**(2) Airbnb-NewYork_EDA-TextAnalysis_Python.ipynb**
-  - The main notebook containing the Python implementation codes (along with explanations) for the project.
+**(2) Airbnb-NewYork_EDA-TextAnalysis_Python Folder**
+  - Contains the main Python notebook with implementation codes and explanations for the project.
 
 
 
